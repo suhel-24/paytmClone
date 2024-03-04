@@ -26,4 +26,15 @@ What things you need to install the software and how to install them.
 node -v
 npm -v
 
+
 npm install (in frontend and backend)
+```
+
+##UI
+
+![Screenshot 2024-03-05 005404](https://github.com/suhel-24/paytmClone/assets/126446249/8d1b73b1-f6e6-47e8-bf74-e142090752af)
+![Screenshot 2024-03-05 005502](https://github.com/suhel-24/paytmClone/assets/126446249/ea1eaec6-7b32-4707-9093-3d5902e5e495)
+![Screenshot 2024-03-05 005951](https://github.com/suhel-24/paytmClone/assets/126446249/dbd9229e-41a7-41c4-8fd6-374071c81e94)
+![Screenshot 2024-03-05 010037](https://github.com/suhel-24/paytmClone/assets/126446249/3b4ac1ca-04fd-4b2f-b942-40154120f3e5)
+
+
